@@ -1,0 +1,11 @@
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.Repositories\bin\Release\netstandard2.0\ProductCatalog.Repositories.deps.json
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.Repositories\bin\Release\netstandard2.0\ProductCatalog.Repositories.dll
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.Repositories\bin\Release\netstandard2.0\ProductCatalog.Repositories.pdb
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.Repositories\bin\Release\netstandard2.0\ProductCatalog.Domain.dll
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.Repositories\bin\Release\netstandard2.0\ProductCatalog.Domain.pdb
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.Repositories\obj\Release\netstandard2.0\ProductCatalog.Repositories.csprojAssemblyReference.cache
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.Repositories\obj\Release\netstandard2.0\ProductCatalog.Repositories.AssemblyInfoInputs.cache
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.Repositories\obj\Release\netstandard2.0\ProductCatalog.Repositories.AssemblyInfo.cs
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.Repositories\obj\Release\netstandard2.0\ProductCatalog.Repositories.csproj.CopyComplete
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.Repositories\obj\Release\netstandard2.0\ProductCatalog.Repositories.dll
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.Repositories\obj\Release\netstandard2.0\ProductCatalog.Repositories.pdb

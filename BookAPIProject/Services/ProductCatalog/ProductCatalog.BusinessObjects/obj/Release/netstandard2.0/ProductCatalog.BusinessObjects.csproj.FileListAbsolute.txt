@@ -1,0 +1,15 @@
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.BusinessObjects\bin\Release\netstandard2.0\ProductCatalog.BusinessObjects.deps.json
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.BusinessObjects\bin\Release\netstandard2.0\ProductCatalog.BusinessObjects.dll
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.BusinessObjects\bin\Release\netstandard2.0\ProductCatalog.BusinessObjects.pdb
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.BusinessObjects\bin\Release\netstandard2.0\ProductCatalog.Domain.dll
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.BusinessObjects\bin\Release\netstandard2.0\ProductCatalog.EFRepositories.dll
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.BusinessObjects\bin\Release\netstandard2.0\ProductCatalog.Repositories.dll
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.BusinessObjects\bin\Release\netstandard2.0\ProductCatalog.EFRepositories.pdb
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.BusinessObjects\bin\Release\netstandard2.0\ProductCatalog.Repositories.pdb
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.BusinessObjects\bin\Release\netstandard2.0\ProductCatalog.Domain.pdb
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.BusinessObjects\obj\Release\netstandard2.0\ProductCatalog.BusinessObjects.csprojAssemblyReference.cache
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.BusinessObjects\obj\Release\netstandard2.0\ProductCatalog.BusinessObjects.AssemblyInfoInputs.cache
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.BusinessObjects\obj\Release\netstandard2.0\ProductCatalog.BusinessObjects.AssemblyInfo.cs
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.BusinessObjects\obj\Release\netstandard2.0\ProductCatalog.BusinessObjects.csproj.CopyComplete
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.BusinessObjects\obj\Release\netstandard2.0\ProductCatalog.BusinessObjects.dll
+C:\TestNetCore\FinalTestApp\GenericRepo\Services\ProductCatalog\ProductCatalog.BusinessObjects\obj\Release\netstandard2.0\ProductCatalog.BusinessObjects.pdb
