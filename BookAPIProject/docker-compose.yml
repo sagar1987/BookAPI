@@ -1,0 +1,17 @@
+version: '3.4'
+networks:
+ frontend:
+ backend:
+
+services:
+  productcatalog.api:
+    image: bookappdemp/bookapi
+    build:
+      context: .
+      dockerfile: Services/ProductCatalog/ProductCatalog.API/Dockerfile
+    ports:
+      - "5300:80"
+      - "5301:443"
+    networks:
+      - frontend
+      - backend
